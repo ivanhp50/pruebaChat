@@ -14,7 +14,7 @@ public class ConectorCliente extends Thread{
 	private InputStreamReader entradaSocket;
 	private DataOutputStream salida;
 	private BufferedReader entrada;
-	final int puerto = 9000;
+	final int puerto = 8000;
 	
 	/**
 	 * 
