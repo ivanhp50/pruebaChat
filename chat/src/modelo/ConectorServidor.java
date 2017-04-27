@@ -10,7 +10,7 @@ public class ConectorServidor extends Thread{
 	private ServerSocket serverSocket;
 	private InputStreamReader entradaSocket;
 	private BufferedReader entrada;
-	final int puerto = 8000;
+	final int puerto = 9000;
 	
 	/**
 	 * 
